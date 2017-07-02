@@ -1,4 +1,4 @@
-module Html5.DragDrop exposing (Model, init, Msg, update, updateSticky, draggable, draggableElement, droppable, droppableElement, getDragId, getDropId)
+module Element.DragDrop exposing (Model, init, Msg, update, updateSticky, draggable, draggableElement, droppable, droppableElement, getDragId, getDropId)
 
 {-| This library handles dragging and dropping using the API
 from the HTML 5 recommendation at
