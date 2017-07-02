@@ -25,7 +25,7 @@ was made from another instance.
 
 # View attributes
 
-@docs draggable, droppable
+@docs draggable, droppable, draggableElement, droppableElement
 
 
 # Status functions
